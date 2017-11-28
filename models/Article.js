@@ -5,7 +5,7 @@ const ArticleSchema = new Schema(
   {
     title: String,
     description: String,
-    body: Srting
+    body: String
   },
   { timestamps: true }
 );
